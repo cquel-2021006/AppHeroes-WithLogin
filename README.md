@@ -8,7 +8,7 @@ Descargar e instalar usando los modulos de node
 
 Ejecutar el comando:
 ```
-yarn install
+npm install
 ```
 
 Para instalar todas las dependencias
@@ -16,7 +16,7 @@ Para instalar todas las dependencias
 Ejecutar el comando:
 
 ```
-yarn dev
+npm run dev
 ```
 
 para levantar el proyecto.
